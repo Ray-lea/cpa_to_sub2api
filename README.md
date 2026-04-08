@@ -1,4 +1,4 @@
-# Sub2API 批量转换器
+# CPA — Sub2API 批量转换器
 
 一个用于 Windows 桌面的本地工具。
 
@@ -21,7 +21,6 @@
 
 - Windows
 - Python 3.14
-
 
 ## 安装
 
